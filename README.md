@@ -4,7 +4,7 @@
 
 Предният код на уебсайта е с отворен код, добре дошли да помогнете за оптимизирането на превода
 
-* [преден код](https://github.com/xxai-art/web)
+* [Код на предния край](https://github.com/xxai-art/web)
 * [Езикови пакети за сайта като цяло](https://github.com/xxai-art/web/tree/main/i18n)
 * [Езикови пакети за модули за вход](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Многоезична документация на уебсайта](https://github.com/xxai-doc)
