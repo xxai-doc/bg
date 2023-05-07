@@ -2,7 +2,7 @@
 
 # xxAI.чл
 
-* [преден код](https://github.com/xxai-art/web)
+Предният код на уебсайта е с отворен код, добре дошли да помогнете за оптимизирането на превода
 
 * [преден код](https://github.com/xxai-art/web)
 * [Езикови пакети за сайта като цяло](https://github.com/xxai-art/web/tree/main/i18n)
