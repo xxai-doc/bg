@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , добавете някои функции въз основа на синтаксиса на coffeescript, вижте [coffee_plus](./coffee_plus.md) .
 
-* декларирай променлива
+## декларирай променлива
 
 ```
 + var1, var2
 ```
 
-* декларационен етикет
+## декларационен етикет
 
 `:$` е за използване със [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* бърз импорт
+## бърз импорт
 
 ```
 > zx/globals:
